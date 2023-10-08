@@ -1,0 +1,92 @@
+
+
+html, body {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(image/keren.jpg);
+    height: 130vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.bg-navbar{
+    background-color: #C2DEDC;  
+}
+
+
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.login-form{
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: #D0F5BE !important;
+    border-radius: 15px solid black !important;
+} 
+.login-form2{
+    width: 380px;
+    height: 500px;
+    padding: 20px;
+    background-color: #D0F5BE !important;
+    border-radius: 15px solid black !important;
+    
+} 
+
+
+
+
+input[type="text"],
+input[type="password"],
+input[type="date"] {
+    background-color: #FBFFDC;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus{
+    outline: none;
+    border: none;
+    background: #FBFFDC;
+    color: black;
+    margin: 0;
+    
+}
+
+.pilihan{
+    background-color: #FBFFDC;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.pilihan:focus{
+    outline: none;
+    border: none;
+    background: #FBFFDC;
+    color: black;
+    margin: 0;
+}
+
+.card-title{
+    font-weight: 900;
+    padding: 10px;
+} 
+
+.card-title2{
+    font-weight: 900;
+    padding-top: 10px;
+} 
+  
