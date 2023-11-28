@@ -1,3 +1,5 @@
-# Membuat-Website-Perpustakaan-Sederhana
-Berikut ini adalah Code membuat Website Aplikasi Perpustakaan CRUD dengan Database mysql 
-Menggunakan Framework bootstrap untuk tampilan website dan menggunakan bahasa Php untuk membuat databasenya
+Aplikasi Perpustakaan
+
+**Terdapat 2 user** : Admin dan Petugas
+Admin : Menambahkan Buku 
+Petugas : Input yang peminjam Buku
